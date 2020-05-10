@@ -245,6 +245,7 @@ class CountriesListScreen extends StatelessWidget {
             autofocus: false,
             style: TextStyle(color: Colors.white),
             decoration: InputDecoration(
+                hintText: 'Search countries...',
                 hintStyle: TextStyle(color: Colors.white),
                 icon: Icon(
                   Icons.search,
@@ -288,6 +289,7 @@ class CountriesListScreen extends StatelessWidget {
         body: Padding(
           padding: const EdgeInsets.only(top: 10.0),
           child: Container(
+            height: MediaQuery.of(context).size.height,
             decoration: BoxDecoration(
               color: Colors.white,
               borderRadius: BorderRadius.only(topLeft: Radius.circular(60.0))
