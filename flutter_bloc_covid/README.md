@@ -1,5 +1,10 @@
 # flutter_bloc_covid
 
+<img src=https://github.com/gergirod/flutter_covid_data/blob/master/flutter_bloc_covid/assets/image_7.jpg height=300 /> <img src=https://github.com/gergirod/flutter_covid_data/blob/master/flutter_bloc_covid/assets/image_5.jpg height=300 /> <img src=https://github.com/gergirod/flutter_covid_data/blob/master/flutter_bloc_covid/assets/image_2.jpg height=300 /> <img src=https://github.com/gergirod/flutter_covid_data/blob/master/flutter_bloc_covid/assets/image_3.jpg height=300 />
+<img src=https://github.com/gergirod/flutter_covid_data/blob/master/flutter_bloc_covid/assets/image_4.jpg height=300 />
+<img src=https://github.com/gergirod/flutter_covid_data/blob/master/flutter_bloc_covid/assets/image_1.jpg height=300 />
+<img src=https://github.com/gergirod/flutter_covid_data/blob/master/flutter_bloc_covid/assets/image_6.jpg height=300 />
+
 ### App to track covid spread around the world.
 ### Build with flutter and bloc pattern
 
